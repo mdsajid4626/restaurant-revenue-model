@@ -17,7 +17,7 @@ A regression project that predicts restaurant revenue using Linear Regression, w
 restaurant-revenue-model/
 │
 ├── restaurant_revenue.ipynb   # Main notebook
-├── restaurant_revenue(1)(1).csv   # Dataset
+├── restaurant_revenue.csv   # Dataset
 └── README.md
 ```
 
